@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import {createBrowserRouter, RouterProvider} from 'react-router-dom'
 import './App.css'
 
-import Navbar from './componenets/navbar'
+import Navbar from './componenets/Navbar'
 import Pastes from './componenets/pastes'
 import ViewPaste from './componenets/ViewPaste'
 import { Provider } from 'react-redux'
