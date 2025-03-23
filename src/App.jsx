@@ -5,7 +5,7 @@ import {createBrowserRouter, RouterProvider} from 'react-router-dom'
 import './App.css'
 
 import Navbar from './componenets/Navbar'
-import Pastes from './componenets/Paste'
+import Paste from './componenets/Paste'
 import ViewPaste from './componenets/ViewPaste'
 import { Provider } from 'react-redux'
 import Home from './componenets/Homme'
